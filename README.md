@@ -2,10 +2,6 @@
 
 A Hadoop MapReduce project that processes NYC MTA turnstile data to compute total **entries** and **exits** on **December 30, 2022** across all control areas.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/MTA_NYCT_logo.svg" alt="MTA Logo" width="120"/>
-</p>
-
 ---
 
 ## 📌 Objective
